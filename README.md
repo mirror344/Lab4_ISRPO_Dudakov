@@ -96,7 +96,8 @@ while (flag)
 ## Примеры LaTeX
 inline $a^2 + b^2 = c^2$
 
-block\
+block
+
 $$
 \sum_{i=1} i = \frac{n(n+1)}{2}
 $$
